@@ -48,3 +48,51 @@ int main() {
 
     }
 }
+
+// Size mysize = {16, 16};
+// Sprite mysprite = createSprite("sprite", mysize);
+// showSprite(mysprite);
+
+// //Sound mysound = createSound("song");
+// //playSound(mysound, true);
+
+// while (true) {
+
+// bool UpbuttonWasPressed = isButtonDown(UP);
+// bool DownbuttonWasPressed = isButtonDown(DOWN);
+// bool LeftbuttonWasPressed = isButtonDown(LEFT);
+// bool RightbuttonWasPressed = isButtonDown(RIGHT);
+   
+//    Position Sprite1pos = getPosition(mysprite);
+//        if (UpbuttonWasPressed == true) {
+
+// Sprite1pos.y=Sprite1pos.y-5;
+// updatePosition(mysprite, Sprite1pos);
+//        }
+
+//        if (DownbuttonWasPressed == true) {
+
+// Sprite1pos.y=Sprite1pos.y+5;
+// updatePosition(mysprite, Sprite1pos);
+
+//        }
+//        if (LeftbuttonWasPressed == true) {
+
+// Sprite1pos.x=Sprite1pos.x-5;
+// updatePosition(mysprite, Sprite1pos);
+//        }
+
+//        if (RightbuttonWasPressed == true) {
+
+// Sprite1pos.x=Sprite1pos.x+5;
+// updatePosition(mysprite, Sprite1pos);
+// }
+
+// updateScreen();
+
+
+
+
+
+// }
+// }
